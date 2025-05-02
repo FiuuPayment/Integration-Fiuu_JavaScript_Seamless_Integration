@@ -28,7 +28,7 @@ assistance, please email to support@fiuu.com
 Installations Guidance for Seamless 
 --------------------------
 
-[FB APP Seamless Integration](https://github.com/RazerMS/Seamless_Integration/wiki/Razer-Merchant-Services-FB-App-Seamless-Integration)
+[FB APP Seamless Integration](https://github.com/FiuuPayment/Integration-Fiuu_JavaScript_Seamless_Integration/wiki/Fiuu-FB-App-Seamless-Integration)
 
 Seamless Integration (non-PCI):
 - [Latest Version (Auto update)](https://github.com/FiuuPayment/Integration-Fiuu_JavaScript_Seamless_Integration/wiki/Fiuu-Seamless-Integration-v3.28-(non-PCI)) **Update: 14/12/2021** - AlipayPlus
